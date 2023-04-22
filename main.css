@@ -26,6 +26,12 @@ h1 {
     
 }
 
+h2 {
+    font-family: "Lora", serif;
+    font-weight: bold;
+    font-size: 22px;
+}
+
 h2 a, p a {
     color: #666;
 }
